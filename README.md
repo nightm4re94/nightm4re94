@@ -1,4 +1,8 @@
-### Hi there 👋
+### I'm Matthias 👋
+[![nightm4re94's GitHub stats](https://github-readme-stats.vercel.app/api?username=nightm4re94&count_private=true&show_icons=true&theme=dracula)](https://github.com/nightm4re94/github-readme-stats)
+
+[![nightm4re94's github activity graph](https://activity-graph.herokuapp.com/graph?username=nightm4re94&theme=dracula)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
 
 <!--
 **nightm4re94/nightm4re94** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
